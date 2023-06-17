@@ -1,0 +1,24 @@
+@import '/css/menu.css';
+
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@600&family=Vollkorn:ital,wght@0,400;0,600;1,400&display=swap');
+
+@font-face {
+    font-family: 'vol';
+    src: url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@600&family=Vollkorn:ital,wght@0,400;0,600;1,400&display=swap');
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font: 'vol', Georgia, Sans-serif;
+}
+
+img {
+    border-radius: 5px;
+    display: block;
+}
